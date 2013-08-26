@@ -1,0 +1,5 @@
+.DS_Store
+index_debug.html
+package.json
+gruntfile.js
+node_modules/
